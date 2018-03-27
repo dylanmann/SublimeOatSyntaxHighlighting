@@ -2,12 +2,12 @@
 	"schema_version": "1.0",
 	"packages": [
 		{
-			"name": "OAT-Syntax",
+			"name": "OAT Syntax",
 			"details": "https://github.com/dylanmann/SublimeOatSyntaxHighlighting",
 			"releases": [
 				{
 					"sublime_text": "*",
-					"tags": true
+					"branch": "master"
 				}
 			]
 		}
